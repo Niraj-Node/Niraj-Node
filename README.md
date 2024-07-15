@@ -12,7 +12,7 @@
 
 ## 👦 About Me
 
-- 👨‍💻 I'm a B.Tech CE 2nd year student at DDU, Nadiad
+- 👨‍💻 I'm a B.Tech CE 3rd year student at DDU, Nadiad
 
 - 🔭 I’m currently developing and learning **Java Technologies, JavaScript, and other full-stack tools** & focusing on **DSA**
 
